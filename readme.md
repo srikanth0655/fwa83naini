@@ -1,1 +1,1 @@
-[Go ty my site](https://fwa83naini.herokuapp.com/)
+[Go to my site](https://fwa83naini.herokuapp.com/)
